@@ -1,0 +1,58 @@
+
+<br> <hr>
+
+<h5>{{insert}}</h5>
+
+<label for="">Nome Do Aluno:</label>
+<input type="text" class="form-control"   placeholder="nome do aluno" [(ngModel)]="nome" ><br>
+<label for="">Curso Do Aluno:</label>
+<input type="text" class="form-control"  placeholder="curso " [(ngModel)]="curso"><br>
+<label for="">RU Do Aluno:</label>
+<input type="text" class="form-control" placeholder="RU" [(ngModel)]="ru"><br>
+
+{{nome}} | {{curso}} | {{ru}} <hr>
+
+<button style="position:absolute; right: 700px;" class="btn btn-primary "  
+[disabled]="!novoAluno" 
+(click) ="inserirNovoAluno()" type="reset" id="nome"> &nbsp; &nbsp;Incluir&nbsp;&nbsp; </button>
+
+<button style="position:absolute; right: 560px;" class="btn btn-primary"  
+[disabled]="!novoAluno" 
+(click) ="removerAluno()" > &nbsp; &nbsp; Remover &nbsp; &nbsp;  </button><br><br>
+
+
+
+
+<table class="table" width=30%>
+  <thead>
+      <tr>
+      
+        <th scope="col">NOME</th>
+        <th scope="col">CURSO</th>
+        <th scope="col">RU</th>
+  </tr> 
+</thead>
+
+<tbody>
+ 
+<ng-container *ngFor="let aluno of cadAlunos">
+  <tr>
+    <td class="text-right" > <span style="color: blue;">{{ aluno.nome }}</span> </td> 
+  <td class="text-right" > <span style="color: blue;">{{ aluno.curso }}</span> </td> 
+  <td class="text-right" > <span style="color: blue;">{{ aluno.ru }}</span> </td> 
+</tr>  
+</ng-container>
+
+</tbody>
+ 
+</table>
+
+
+
+
+
+
+
+
+
+
