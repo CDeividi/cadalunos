@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1639018385748,
-  "index": "/index.html",
+  "timestamp": 1639018998882,
+  "index": "cadalunos/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.250d609c2c3f94a1.js",
-        "/manifest.webmanifest",
-        "/polyfills.75c2d323e1099624.js",
-        "/runtime.744f44e5ea7f5c61.js",
-        "/styles.fc14cebdb2c1eda4.css"
+        "cadalunos/favicon.ico",
+        "cadalunos/index.html",
+        "cadalunos/main.250d609c2c3f94a1.js",
+        "cadalunos/manifest.webmanifest",
+        "cadalunos/polyfills.75c2d323e1099624.js",
+        "cadalunos/runtime.744f44e5ea7f5c61.js",
+        "cadalunos/styles.fc14cebdb2c1eda4.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "cadalunos/assets/icons/icon-128x128.png",
+        "cadalunos/assets/icons/icon-144x144.png",
+        "cadalunos/assets/icons/icon-152x152.png",
+        "cadalunos/assets/icons/icon-192x192.png",
+        "cadalunos/assets/icons/icon-384x384.png",
+        "cadalunos/assets/icons/icon-512x512.png",
+        "cadalunos/assets/icons/icon-72x72.png",
+        "cadalunos/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "54f23823406a36d301f7589b169a5b2567e329e3",
-    "/main.250d609c2c3f94a1.js": "c854a3ad32b6f138851deaa7b1dafaaa48b97721",
-    "/manifest.webmanifest": "5ed12a23d49c877dfebf7d1cfb4923612a990424",
-    "/polyfills.75c2d323e1099624.js": "42673099897304b79d213d717a8b699ef46398e7",
-    "/runtime.744f44e5ea7f5c61.js": "af834a3b5e0497804c968bfdd11a200d659c97f1",
-    "/styles.fc14cebdb2c1eda4.css": "3b18526e573473e15fdf697541c34556fcee75da"
+    "cadalunos/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "cadalunos/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "cadalunos/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "cadalunos/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "cadalunos/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "cadalunos/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "cadalunos/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "cadalunos/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "cadalunos/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "cadalunos/index.html": "419fc0e7e428f97d2c91ea234db6a7751b6a9617",
+    "cadalunos/main.250d609c2c3f94a1.js": "c854a3ad32b6f138851deaa7b1dafaaa48b97721",
+    "cadalunos/manifest.webmanifest": "5ed12a23d49c877dfebf7d1cfb4923612a990424",
+    "cadalunos/polyfills.75c2d323e1099624.js": "42673099897304b79d213d717a8b699ef46398e7",
+    "cadalunos/runtime.744f44e5ea7f5c61.js": "af834a3b5e0497804c968bfdd11a200d659c97f1",
+    "cadalunos/styles.fc14cebdb2c1eda4.css": "3b18526e573473e15fdf697541c34556fcee75da"
   },
   "navigationUrls": [
     {
